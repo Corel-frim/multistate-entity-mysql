@@ -1,3 +1,5 @@
+github.com/corel-frim/storage-mysql v0.0.0-20240513074648-fea10805a764 h1:1NAMHFaoGMTvVglpXXYtp64BlWjcP0k5ne/QpwRVEv0=
+github.com/corel-frim/storage-mysql v0.0.0-20240513074648-fea10805a764/go.mod h1:gEsi1mlOQhOnzV8uKecsExbrc4oBwp3+wSMnliZyOOs=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/go-qbit/model v1.1.0/go.mod h1:BF1/Z0xjCKjxvAlj7mGeRYfiZd6A49utPkBgSGK1Rm4=

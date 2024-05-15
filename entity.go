@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
+	mysql "github.com/corel-frim/storage-mysql"
 	"github.com/go-qbit/model"
-	mysql "github.com/go-qbit/storage-mysql"
 )
 
 var (

@@ -4,10 +4,10 @@ go 1.17
 
 require (
 	github.com/go-qbit/model v1.1.1
-	github.com/go-qbit/storage-mysql v1.1.1
 )
 
 require (
+	github.com/corel-frim/storage-mysql v0.0.0-20240513074648-fea10805a764 // indirect
 	github.com/go-qbit/qerror v1.2.3 // indirect
 	github.com/go-qbit/rbac v0.0.0-20200326053441-69d621298d66 // indirect
 	github.com/go-qbit/timelog v0.0.0-20200505103456-44613501a8f1 // indirect
