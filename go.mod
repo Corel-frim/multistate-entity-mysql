@@ -1,4 +1,4 @@
-module github.com/go-qbit/multistate-entity-mysql
+module github.com/corel-frim/multistate-entity-mysql
 
 go 1.17
 
